@@ -163,3 +163,14 @@ SELECT track,
 FROM spotify
 ORDER BY views;
 ```
+## Query Optimization Technique
+
+To improve query performance, we carried out the following optimization process:
+
+- **Initial Query Performance Analysis Using** **EXPLAIN**
+
+We began by analyzing the performance of a query using the EXPLAIN function.
+The query retrieved tracks based on the artist column, and the performance metrics were as follows:
+Execution time (E.T.): 7 ms
+Planning time (P.T.): 0.17 ms
+Below is the screenshot of the EXPLAIN result before optimization:

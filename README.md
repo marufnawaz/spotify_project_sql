@@ -3,6 +3,10 @@
 
 ![Spotify Logo](https://github.com/marufnawaz/spotify_project_sql/blob/main/spotify_logo.jpg)
 
+## Overview
+
+This project focuses on analyzing a Spotify dataset containing detailed information about tracks, albums, and artists using SQL. It encompasses the complete process of normalizing a previously denormalized dataset, executing SQL queries at different difficulty levels (ranging from simple to advanced), and enhancing query performance. The main objectives are to hone advanced SQL techniques while extracting meaningful insights from the dataset
+
 ### 1. Retrieve the names of all tracks that have more than 1 billion streams.
 ```sql
 SELECT * FROM spotify

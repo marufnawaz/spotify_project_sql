@@ -37,7 +37,7 @@ CREATE TABLE spotify (
     most_played_on VARCHAR(50)
 );
 ```
-## ## Business Problems and Solutions
+## Business Problems and Solutions
 
 ### 1. Retrieve the names of all tracks that have more than 1 billion streams.
 ```sql

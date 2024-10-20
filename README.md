@@ -1,4 +1,5 @@
 # Spotify Advanced SQL Project and Query Optimization
+- **Dataset Link:** [Spotify Dataset](https://www.kaggle.com/datasets/sanjanchaudhari/spotify-dataset)
 ![Spotify Logo](https://github.com/marufnawaz/spotify_project_sql/blob/main/spotify_logo.jpg)
 
 ### 1. Retrieve the names of all tracks that have more than 1 billion streams.

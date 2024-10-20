@@ -1,4 +1,5 @@
 # Spotify Advanced SQL Project and Query Optimization
+![Spotify Logo]()
 
 ### 1. Retrieve the names of all tracks that have more than 1 billion streams.
 ```sql

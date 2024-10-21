@@ -171,7 +171,7 @@ This project provided a comprehensive analysis of a Spotify dataset using SQL, c
 
 - We efficiently queried tracks, albums, and artist-related information, allowing us to retrieve high-stream tracks (e.g., tracks with over 1 billion streams) and list albums along with their respective artists.
 - The project included various data exploration techniques, such as retrieving specific attributes (licensed tracks, album types) and grouping results based on artist and album characteristics.
-- 
+  
 ### 2. Aggregations and Grouping:
 
 - Using SQL aggregation functions, we calculated important metrics such as the total number of tracks per artist and average danceability per album. This helped identify patterns in track production and stylistic attributes across different albums.
